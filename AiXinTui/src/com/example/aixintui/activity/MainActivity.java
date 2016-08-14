@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
 		 * 参数3	渠道
 		 * 参数4	你应用的版本号
 		 */
-		PushSdkApi.register(this, appKey, "ccc", "1.1");
+		PushSdkApi.register(this, appKey, "ccc", "8.8");
 	}
 
 }
