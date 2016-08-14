@@ -1,4 +1,4 @@
-package com.example.aixintui.activity;
+﻿                     package com.example.aixintui.activity;
 
 import com.example.aixintui.R;
 import com.example.aixintui.R.layout;
@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
 		 * 参数3	渠道
 		 * 参数4	你应用的版本号
 		 */
-		PushSdkApi.register(this, appKey, "ccc", "1.0");
+		PushSdkApi.register(this, appKey, "ccc", "1.1");
 	}
 
 }
